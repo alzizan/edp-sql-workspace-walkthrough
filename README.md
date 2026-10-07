@@ -206,4 +206,6 @@ setiap eksekusi (waktu, status, durasi, jumlah baris).
 Semua AI di walkthrough ini berjalan **on-premise** — query dan metadata tidak dikirim ke layanan
 AI publik. Masking & hak akses tetap berlaku di setiap query.
 
-**Coba 14 hari, tanpa sales call:** https://alzizan.co.id/register
+**Coba gratis, tanpa sales call:** https://alzizan.co.id/register
+
+**Mau lihat dengan kasus tim Anda?** Minta demo, atau sesi in-house gratis *Big Data & AI Tech Update* di kantor Anda: sales@alzizan.co.id
