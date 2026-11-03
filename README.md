@@ -1,5 +1,7 @@
 # Walkthrough — SQL Workspace: Query yang Salah, Lambat, dan Cara Platform Menangkapnya
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Query yang error itu mudah: ketahuan. Yang berbahaya adalah query yang **berhasil tapi salah** —
 angkanya masuk ke slide direksi. Walkthrough ini menjalankan query lambat dan query salah di SQL
 Workspace Enterprise Data Platform, dan menunjukkan apa yang ditangkap platform. Data memakai
